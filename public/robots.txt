@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://leknin-jewels.vercel.app
+
+# Sitemaps
+Sitemap: https://leknin-jewels.vercel.app/sitemap.xml
